@@ -6,8 +6,9 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 
-## Sample Tesxt - Commit 
+## Sample Tesxt - Push 
 
 
 TEst 123
 
+## Sample Text commit
